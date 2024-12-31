@@ -31,3 +31,5 @@ EXPOSE 8080
 # Запускаем приложение
 CMD ["./main"]
 
+# Ссылка на докер
+https://hub.docker.com/repository/docker/alekskag/42/tags/v1/sha256:e6da93ad105798051d2dae74d46ad3163e016293021b121c2aa8aeff2d286a69
